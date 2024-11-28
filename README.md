@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
+I am **Akshay Vs**, a passionate software developer!
 
-<!--
-**akshayvs16/akshayvs16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🔭 I’m currently working on **Android and web development** @iOrbit Digital Technologies 
+- 🌱 I’m learning **Jetpack Compose and MERN Stack**
+- 💬 Ask me about **Kotlin, RESTful APIs, WebSocket Integration ,Javascript**
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/akshayvs16/)
+- [Portfolio](https://akshayvs16.my.canva.site/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Kotlin, Java, JavaScript
+- **Frameworks:** Jetpack Compose, React.js
+- **Tools:** Git, Android Studio, VS Code
+
+## ⚡ Fun Facts
+- I’m a self-taught developer with 2+ Years in Android Development.
+- I enjoy solving complex problems and optimizing workflows.
